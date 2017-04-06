@@ -40,9 +40,6 @@ namespace asp_net_core_mvc_mysql_template.Models
                     }
                 }
             }
-            System.Console.Out.WriteLine("GET FRUIT LIST:");
-            System.Console.Out.WriteLine(list);
-    
             return list;
         }
     }
