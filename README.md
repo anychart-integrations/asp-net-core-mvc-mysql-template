@@ -1,7 +1,7 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
-# ASP.NET Core C# basic template
+# ASP.NET Core MVC C# basic template
 
-This example shows how to use Anychart library with the C# programming language using ASP.NET Core and MySQL database.
+This example shows how to use Anychart library with the C# programming language using ASP.NET Core MVC and MySQL database.
 
 ## Running
 This example uses .NET Core 1.0.1 and MySQL 5.6.
@@ -27,7 +27,7 @@ Open project in Visual Studio or Visual Studio Code.
 
 Run application using Run button.
 
-Or you can use next command, be sure you're in asp-net-core-mvc-mysql-template folder:
+Or you can use next commands, be sure you're in asp-net-core-mvc-mysql-template folder:
 ```
 $  dotnet restore
 $  dotnet run
