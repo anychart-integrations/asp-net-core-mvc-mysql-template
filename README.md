@@ -27,13 +27,19 @@ Open project in Visual Studio or Visual Studio Code.
 
 Run application using Run button.
 
+Or you can use next command, be sure you're in asp-net-core-mvc-mysql-template folder:
+```
+$  dotnet restore
+$  dotnet run
+```
+
 ## Workspace
 Your workspace should look like:
 ```
 AspNetCSharpMysqlTemplate/
 	Controllers/
 		ChartController.cs		# main controller
-    Models/
+	Models/
 		Fruit.cs				# Fruid class
 		FruitDBContext.cs		# DB data provider
 	Views/
