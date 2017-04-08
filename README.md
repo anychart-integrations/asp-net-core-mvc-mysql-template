@@ -36,7 +36,7 @@ $  dotnet run
 ## Workspace
 Your workspace should look like:
 ```
-AspNetCSharpMysqlTemplate/
+asp-net-core-mvc-mysql-template/
 	Controllers/
 		ChartController.cs		# main controller
 	Models/
@@ -73,4 +73,4 @@ Database - [MySQL](https://www.mysql.com/)<br />
 * [Technical Support](https://anychart.com/support)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/asp-net-c-sharp-mysql-template/blob/master/LICENSE).
+[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/asp-net-core-mvc-mysql-template/blob/master/LICENSE).
